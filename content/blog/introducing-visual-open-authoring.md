@@ -13,8 +13,6 @@ In line with this mission, we sought to create something we call **Visual Open A
 
 **Picture this:** on your website, there's an _"Edit this page on GitHub"_ link — familiar enough. But imagine that when you click it, instead of kicking you over to GitHub, the site itself becomes editable, **like a Google Doc**.
 
-The experience should feel familiar for anyone that has used a word processor or site builder. You navigate to the page you want to change, click “Edit”, make updates in a WYSIWYG, and then submit your changes. That’s it 🧞‍♂️.
-
 ![TinaCMS Visual Open Authoring](/gif/open-auth.gif)
 
 ## What's under the hood?
@@ -24,7 +22,6 @@ The scaffolding underneath **Visual Open Authoring** is a Git-based workflow. Tr
 Currently, this requires a GitHub account and some knowledge of Git workflows, making Open Authoring ideal for developer-centric sites (docs, wikis, etc). Soon, we will be opening up [Tina Teams](https://tinacms.org/teams) so people without GitHub accounts can easily edit in real-time too.
 
 The Tina Team is currently prototyping this on our own site. In the coming weeks, the APIs for integrating **Visual Open Authoring** with Tina will become available. In the meantime, click the **edit button** at the top of this blog to try it out. Feel free to reference this site’s [source code](https://github.com/tinacms/tinacms.org) to see how it works.
-
 
 ![edit](https://res.cloudinary.com/forestry-demo/image/upload/w_800,bo_2px_solid_grey/v1583778760/TinaCMS/click-edit-button.png)
 
